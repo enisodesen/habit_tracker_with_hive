@@ -25,7 +25,7 @@ class HabitTile extends StatelessWidget {
           //Setttings Option
           SlidableAction(
             onPressed: settingsTapped,
-            backgroundColor: Colors.grey.shade800,
+            backgroundColor: Colors.grey.shade700,
             icon: Icons.settings,
             borderRadius: BorderRadius.circular(12),
           ),
